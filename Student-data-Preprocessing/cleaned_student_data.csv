@@ -23,7 +23,7 @@
 21,9201.0,David Robertson,Male,82.0,20.0,82.0,1.0,Low,80.0,0.8,98.0,True
 22,9837.0,Susan Brown,Male,91.0,30.0,77.0,1.0,High,90.0,4.4,69.0,True
 23,1949.0,Jessica Ortega,Male,91.0,20.0,78.0,1.0,High,72.0,3.8,58.0,False
-24,3705.0,Jeremy Hall,Female,88.0,18.0,60.0,3.0,Low,92.0,3.6,75.0,False
+24,3705.0,Jeremy Hall,Female,88.0,17.0,60.0,3.0,Low,92.0,3.6,75.0,False
 25,8177.0,Peter Jones,Female,90.0,25.0,90.0,2.0,Medium,80.0,2.9,64.0,True
 26,1117.0,Michael Sampson,Male,85.0,25.0,78.0,1.0,Medium,87.0,2.6,67.0,False
 27,4510.0,Daniel Erickson,Male,91.0,22.0,77.0,3.0,Medium,62.0,1.0,56.0,False
@@ -46,7 +46,7 @@
 44,8149.0,Lynn Anderson,Male,70.0,22.0,90.0,2.0,High,62.0,0.0,84.0,True
 45,6967.0,Michael Cooley,Female,90.0,30.0,86.0,1.0,Low,87.0,3.6,69.0,False
 46,7691.0,Mitchell Sanders,Female,70.0,18.0,70.0,0.0,High,62.0,3.3,74.0,True
-47,5930.0,Maria Cross,Female,82.0,18.0,82.0,1.0,High,62.0,3.9,88.0,False
+47,5930.0,Maria Cross,Female,82.0,17.0,82.0,1.0,High,62.0,3.9,88.0,False
 48,8618.0,Lisa Castillo,Female,85.0,25.0,70.0,1.0,Low,68.0,3.3,68.0,False
 49,2530.0,Theresa Rodriguez,Male,88.0,25.0,90.0,0.0,High,80.0,1.2,80.0,True
 50,8461.0,Kimberly Wood,Female,91.0,25.0,60.0,1.0,Medium,92.0,0.7,94.0,True
@@ -89,12 +89,12 @@
 87,8451.0,Nathan Navarro,Male,95.0,18.0,88.0,2.0,Medium,72.0,4.1,50.0,False
 88,7770.0,Lisa Zimmerman,Male,92.0,12.0,88.0,3.0,Medium,78.0,3.8,63.0,False
 89,9998.0,Jeffrey Howard,Male,88.0,17.0,77.0,2.0,High,88.0,2.5,95.0,True
-90,6091.0,Morgan Bell,Male,82.0,18.0,85.0,1.0,High,78.0,4.7,91.0,True
+90,6091.0,Morgan Bell,Male,82.0,17.0,85.0,1.0,High,78.0,4.7,91.0,True
 91,9165.0,Angelica Steele,Female,82.0,18.0,60.0,1.0,Medium,92.0,2.3,59.0,False
 92,4122.0,Gregory Daniels,Male,90.0,18.0,60.0,1.0,Low,85.0,4.1,68.0,False
 93,9022.0,Eric Davis,Male,85.0,12.0,77.0,1.0,Medium,72.0,3.8,74.0,False
 94,7325.0,Ruth Davis,Male,85.0,15.0,65.0,2.0,Low,90.0,4.3,78.0,True
-95,9617.0,Emily Torres,Male,85.0,18.0,60.0,0.0,High,78.0,3.9,66.0,False
+95,9617.0,Emily Torres,Male,85.0,17.0,60.0,0.0,High,78.0,3.9,66.0,False
 96,7512.0,Nancy Davis,Male,95.0,12.0,60.0,1.0,Low,78.0,4.4,52.0,True
 97,4846.0,Amanda Bowers,Female,92.0,20.0,60.0,1.0,Low,87.0,2.2,94.0,False
 98,1474.0,Alison Lang,Male,95.0,15.0,82.0,1.0,Medium,62.0,0.7,83.0,False
@@ -112,16 +112,16 @@
 110,6942.0,Brent Burns,Male,95.0,12.0,88.0,1.0,Medium,85.0,0.9,57.0,False
 111,2501.0,Melissa Barber,Male,91.0,15.0,78.0,1.0,High,68.0,3.9,63.0,True
 112,4394.0,John Warner,Male,92.0,30.0,65.0,3.0,High,80.0,4.3,59.0,True
-113,9850.0,Christopher Baxter,Female,78.0,18.0,78.0,0.0,High,90.0,3.9,65.0,False
+113,9850.0,Christopher Baxter,Female,78.0,17.0,78.0,0.0,High,90.0,3.9,65.0,False
 114,1258.0,Courtney Haas,Male,88.0,15.0,65.0,0.0,Low,87.0,3.7,80.0,False
 115,6931.0,Sarah Ross,Male,85.0,12.0,90.0,3.0,High,72.0,1.5,91.0,True
 116,1996.0,Manuel Baker,Female,70.0,8.0,85.0,1.0,Low,62.0,0.4,55.0,False
 117,3430.0,Jessica Lamb,Male,78.0,18.0,86.0,1.0,Low,90.0,2.5,76.0,False
 118,8433.0,Jaime Nguyen,Female,90.0,20.0,70.0,3.0,Medium,78.0,4.4,76.0,False
 119,2099.0,Christina Thompson,Male,90.0,20.0,60.0,2.0,Low,90.0,4.1,85.0,True
-120,6400.0,Shari Harrell,Male,70.0,18.0,60.0,1.0,Medium,88.0,1.6,56.0,True
+120,6400.0,Shari Harrell,Male,70.0,17.0,60.0,1.0,Medium,88.0,1.6,56.0,True
 121,3535.0,Tracy Gibbs,Female,92.0,20.0,88.0,2.0,Medium,87.0,3.8,86.0,True
-122,8030.0,David Hoffman,Male,91.0,18.0,78.0,0.0,Medium,85.0,4.6,72.0,True
+122,8030.0,David Hoffman,Male,91.0,17.0,78.0,0.0,Medium,85.0,4.6,72.0,True
 123,3972.0,Robert Davis,Male,91.0,8.0,85.0,0.0,Low,80.0,0.5,83.0,True
 124,7163.0,Patricia Greer,Female,85.0,30.0,78.0,1.0,Medium,90.0,3.9,86.0,True
 125,1861.0,James Stewart,Male,78.0,22.0,78.0,2.0,Medium,78.0,3.3,81.0,False
@@ -152,7 +152,7 @@
 150,6727.0,Rebekah Finley,Male,70.0,15.0,60.0,2.0,Medium,92.0,1.9,55.0,False
 151,4678.0,Robert Martinez,Male,95.0,20.0,88.0,0.0,High,80.0,1.4,80.0,True
 152,8685.0,Steven Crawford,Female,91.0,15.0,85.0,1.0,Medium,92.0,4.2,85.0,False
-153,2821.0,Leslie King,Female,92.0,18.0,85.0,1.0,High,62.0,3.2,89.0,False
+153,2821.0,Leslie King,Female,92.0,17.0,85.0,1.0,High,62.0,3.2,89.0,False
 154,2029.0,George Cannon,Male,85.0,22.0,70.0,1.0,Low,72.0,2.9,95.0,True
 155,5772.0,Adam Carlson,Female,85.0,22.0,88.0,3.0,Medium,62.0,0.9,92.0,True
 156,9576.0,Stephanie Lawrence,Female,90.0,12.0,70.0,2.0,Low,72.0,0.1,80.0,True
@@ -165,7 +165,7 @@
 163,2229.0,Nathaniel Kemp,Female,88.0,12.0,65.0,1.0,High,88.0,3.4,78.0,True
 164,3068.0,Jacob Murray,Male,92.0,30.0,88.0,0.0,Low,80.0,3.0,93.0,False
 165,7077.0,Anthony Green,Female,85.0,20.0,86.0,0.0,Low,90.0,2.0,91.0,False
-166,5089.0,Trevor Freeman,Male,85.0,18.0,77.0,2.0,Medium,72.0,2.5,99.0,False
+166,5089.0,Trevor Freeman,Male,85.0,17.0,77.0,2.0,Medium,72.0,2.5,99.0,False
 167,8311.0,Michael Smith,Male,91.0,18.0,77.0,3.0,High,68.0,4.3,78.0,True
 168,8292.0,William Hogan,Male,95.0,30.0,85.0,2.0,Low,85.0,4.5,60.0,True
 169,2208.0,Joshua Juarez,Male,95.0,20.0,77.0,1.0,Medium,72.0,1.7,99.0,True
@@ -179,7 +179,7 @@
 177,5681.0,Jill Williams,Male,90.0,8.0,65.0,2.0,Low,90.0,3.8,73.0,True
 178,7563.0,Julia Russell,Male,91.0,12.0,90.0,1.0,Low,85.0,0.4,82.0,False
 179,4261.0,Tonya Thompson,Female,82.0,15.0,78.0,1.0,High,90.0,4.0,83.0,False
-180,3440.0,Brandon Williamson,Male,95.0,18.0,88.0,0.0,Medium,62.0,2.5,69.0,False
+180,3440.0,Brandon Williamson,Male,95.0,17.0,88.0,0.0,Medium,62.0,2.5,69.0,False
 181,9311.0,Joseph Davis,Female,91.0,18.0,78.0,1.0,Medium,90.0,3.4,76.0,False
 182,1436.0,Elizabeth Andersen,Female,88.0,22.0,86.0,3.0,Low,80.0,2.9,60.0,False
 183,3421.0,Jeffrey Meyers,Male,85.0,22.0,85.0,3.0,High,78.0,1.6,59.0,False
@@ -190,7 +190,7 @@
 188,7464.0,Omar Gonzalez,Female,78.0,18.0,78.0,2.0,Low,87.0,1.7,78.0,False
 189,8849.0,Melissa Perry,Male,92.0,12.0,82.0,2.0,Low,85.0,0.7,89.0,True
 190,4972.0,Dawn Torres,Male,82.0,25.0,90.0,1.0,High,62.0,1.7,80.0,True
-191,3252.0,Timothy Dean,Male,82.0,18.0,60.0,1.0,Medium,92.0,3.8,68.0,False
+191,3252.0,Timothy Dean,Male,82.0,17.0,60.0,1.0,Medium,92.0,3.8,68.0,False
 192,5676.0,Anna Rollins MD,Male,90.0,22.0,90.0,2.0,Low,80.0,4.6,61.0,False
 193,3880.0,Timothy Barrera,Male,70.0,17.0,65.0,2.0,High,80.0,1.5,76.0,True
 194,6489.0,Susan Morris,Female,85.0,12.0,70.0,1.0,High,72.0,2.3,62.0,True
@@ -215,7 +215,7 @@
 213,8854.0,Matthew Miller,Male,95.0,18.0,78.0,3.0,High,87.0,3.7,98.0,False
 214,4974.0,Shelly Hurley,Male,70.0,25.0,70.0,1.0,Medium,62.0,2.3,91.0,False
 215,6053.0,Mr. Martin Dominguez MD,Female,95.0,12.0,77.0,1.0,High,78.0,3.8,70.0,True
-216,7073.0,Jennifer Wiggins,Female,70.0,18.0,86.0,3.0,Low,68.0,0.1,85.0,False
+216,7073.0,Jennifer Wiggins,Female,70.0,17.0,86.0,3.0,Low,68.0,0.1,85.0,False
 217,5836.0,Anthony Smith,Male,92.0,30.0,90.0,0.0,Low,92.0,2.5,91.0,False
 218,5216.0,John Lopez,Female,85.0,17.0,65.0,1.0,High,68.0,3.6,81.0,True
 219,9882.0,Nathan Rodgers,Male,82.0,15.0,85.0,1.0,High,62.0,0.7,90.0,True
@@ -226,7 +226,7 @@
 224,5914.0,Sarah Norris,Male,85.0,20.0,60.0,0.0,Medium,72.0,2.4,90.0,True
 225,3807.0,Matthew Adams,Male,85.0,8.0,78.0,3.0,High,72.0,4.6,64.0,True
 226,8790.0,William Wade,Female,85.0,20.0,82.0,2.0,Low,80.0,0.9,70.0,True
-227,4394.0,Brian Castro,Male,88.0,18.0,82.0,0.0,Low,92.0,2.8,74.0,False
+227,4394.0,Brian Castro,Male,88.0,17.0,82.0,0.0,Low,92.0,2.8,74.0,False
 228,7288.0,Teresa Sanders,Male,90.0,12.0,88.0,1.0,High,62.0,1.2,54.0,False
 229,7499.0,Richard Oneal,Female,85.0,18.0,77.0,1.0,High,90.0,2.8,74.0,False
 230,4043.0,Christine Cooper,Female,90.0,22.0,82.0,3.0,Low,87.0,0.4,59.0,False
@@ -244,7 +244,7 @@
 242,1725.0,Michael Anderson,Female,95.0,8.0,85.0,1.0,High,85.0,1.1,97.0,True
 243,8303.0,Hannah Gentry,Female,70.0,17.0,86.0,2.0,High,90.0,5.0,80.0,True
 244,5840.0,Patrick Reed,Female,90.0,20.0,65.0,1.0,Medium,90.0,2.3,63.0,False
-245,6706.0,Tiffany Huff,Female,90.0,18.0,77.0,1.0,High,85.0,0.2,95.0,True
+245,6706.0,Tiffany Huff,Female,90.0,17.0,77.0,1.0,High,85.0,0.2,95.0,True
 246,1370.0,Thomas Lee,Female,90.0,10.0,90.0,2.0,High,72.0,0.8,85.0,False
 247,8570.0,Justin Clark,Male,70.0,10.0,65.0,1.0,Medium,80.0,3.7,62.0,False
 248,8037.0,Michael Martinez,Female,85.0,25.0,90.0,2.0,Low,87.0,2.9,84.0,True
@@ -298,7 +298,7 @@
 296,5835.0,Benjamin Alexander,Female,70.0,12.0,77.0,1.0,High,85.0,1.9,76.0,True
 297,9614.0,Isaac Lopez,Male,82.0,15.0,60.0,1.0,Medium,72.0,3.9,72.0,False
 298,7363.0,Ariana Morse,Female,78.0,15.0,88.0,3.0,High,80.0,4.5,99.0,False
-299,1959.0,Brian Avery,Female,88.0,18.0,86.0,3.0,High,87.0,1.2,65.0,False
+299,1959.0,Brian Avery,Female,88.0,17.0,86.0,3.0,High,87.0,1.2,65.0,False
 300,9743.0,Amy Lawson,Male,92.0,22.0,60.0,1.0,High,68.0,1.2,76.0,False
 301,1462.0,Derek Choi,Female,91.0,22.0,65.0,3.0,High,78.0,2.7,61.0,False
 302,1621.0,Paul Reese,Male,85.0,25.0,86.0,3.0,High,72.0,2.4,71.0,True
@@ -363,10 +363,10 @@
 361,8381.0,Stephanie Mcfarland,Female,91.0,12.0,65.0,1.0,High,72.0,3.7,85.0,False
 362,8912.0,Michelle Woods,Male,91.0,10.0,65.0,2.0,Medium,88.0,3.0,70.0,False
 363,7859.0,David Ruiz,Male,88.0,8.0,88.0,2.0,Medium,68.0,0.7,88.0,False
-364,9975.0,Jason Castro,Female,82.0,18.0,90.0,3.0,Low,85.0,3.4,93.0,True
-365,3913.0,Kathleen Montgomery,Female,90.0,18.0,70.0,1.0,Low,88.0,4.7,95.0,False
-366,9747.0,James Bennett,Female,70.0,18.0,70.0,2.0,High,62.0,0.7,92.0,True
-367,4275.0,Kelsey Watkins,Female,78.0,18.0,82.0,0.0,High,85.0,1.0,76.0,True
+364,9975.0,Jason Castro,Female,82.0,17.0,90.0,3.0,Low,85.0,3.4,93.0,True
+365,3913.0,Kathleen Montgomery,Female,90.0,17.0,70.0,1.0,Low,88.0,4.7,95.0,False
+366,9747.0,James Bennett,Female,70.0,17.0,70.0,2.0,High,62.0,0.7,92.0,True
+367,4275.0,Kelsey Watkins,Female,78.0,17.0,82.0,0.0,High,85.0,1.0,76.0,True
 368,6876.0,David Park,Female,90.0,22.0,70.0,3.0,Low,72.0,1.9,82.0,False
 369,1769.0,Christopher Poole,Female,70.0,8.0,88.0,2.0,High,80.0,3.7,62.0,False
 370,4695.0,Rebecca Baxter,Female,88.0,12.0,86.0,3.0,Low,92.0,1.5,61.0,True
@@ -375,7 +375,7 @@
 373,7814.0,Brandon Townsend,Female,90.0,30.0,90.0,3.0,Low,90.0,2.5,68.0,True
 374,9691.0,Haley Robertson,Female,82.0,15.0,85.0,1.0,Medium,92.0,4.5,89.0,True
 375,1653.0,Michelle Gonzalez,Female,70.0,20.0,60.0,2.0,Low,85.0,0.1,83.0,False
-376,9426.0,Gary Holland,Female,85.0,18.0,82.0,3.0,Medium,72.0,0.4,56.0,True
+376,9426.0,Gary Holland,Female,85.0,17.0,82.0,3.0,Medium,72.0,0.4,56.0,True
 377,9814.0,Felicia Howard,Male,90.0,25.0,90.0,0.0,High,92.0,2.7,94.0,False
 378,2181.0,Sean Walker,Male,85.0,17.0,88.0,1.0,High,87.0,0.3,100.0,False
 379,2154.0,Brianna Mills,Male,88.0,8.0,60.0,1.0,Low,62.0,2.2,51.0,False
@@ -396,7 +396,7 @@
 394,3713.0,Ronnie White,Male,90.0,12.0,82.0,3.0,High,68.0,0.8,88.0,True
 395,4773.0,John Fox,Female,95.0,20.0,77.0,1.0,Medium,92.0,3.0,91.0,False
 396,1916.0,Daniel Scott,Male,88.0,10.0,70.0,0.0,Low,88.0,3.2,96.0,False
-397,2778.0,Bethany Andersen,Male,92.0,18.0,70.0,0.0,High,88.0,0.5,80.0,True
+397,2778.0,Bethany Andersen,Male,92.0,17.0,70.0,0.0,High,88.0,0.5,80.0,True
 398,9706.0,Tiffany Moore,Male,90.0,17.0,65.0,3.0,Low,80.0,4.5,99.0,False
 399,9553.0,Sylvia Chavez,Female,95.0,15.0,70.0,0.0,High,78.0,3.9,74.0,False
 400,2600.0,Gerald Reilly,Female,78.0,18.0,77.0,3.0,High,85.0,3.0,76.0,False
@@ -466,7 +466,7 @@
 464,7266.0,Richard Swanson,Male,88.0,12.0,78.0,1.0,Low,88.0,0.7,82.0,True
 465,3509.0,Lauren Simpson,Male,70.0,17.0,86.0,3.0,Low,87.0,1.1,68.0,False
 466,7529.0,Marissa Raymond,Male,78.0,10.0,77.0,2.0,High,78.0,2.0,86.0,True
-467,9589.0,Joyce Bishop,Male,92.0,18.0,82.0,0.0,Medium,88.0,0.4,92.0,False
+467,9589.0,Joyce Bishop,Male,92.0,17.0,82.0,0.0,Medium,88.0,0.4,92.0,False
 468,7939.0,Michael Kelly,Female,95.0,25.0,88.0,1.0,Low,80.0,3.8,60.0,False
 469,8245.0,Peggy Hill,Male,85.0,15.0,90.0,3.0,Low,90.0,0.8,96.0,True
 470,2841.0,Derrick Love,Male,88.0,22.0,65.0,2.0,High,90.0,3.5,57.0,False
@@ -478,7 +478,7 @@
 476,9212.0,Alexa West,Female,85.0,18.0,60.0,1.0,Low,85.0,1.1,71.0,False
 477,3248.0,Phillip Donovan,Male,70.0,12.0,86.0,3.0,Medium,92.0,2.9,77.0,False
 478,6395.0,Monique King,Female,82.0,10.0,90.0,0.0,Low,72.0,3.4,62.0,True
-479,6062.0,Karl Murray,Male,70.0,18.0,86.0,0.0,Medium,87.0,2.8,96.0,True
+479,6062.0,Karl Murray,Male,70.0,17.0,86.0,0.0,Medium,87.0,2.8,96.0,True
 480,4016.0,Julia Brooks,Female,78.0,15.0,88.0,0.0,Medium,62.0,2.2,90.0,False
 481,3489.0,Lauren Montgomery,Male,88.0,10.0,65.0,1.0,Low,88.0,1.3,86.0,True
 482,4804.0,Nathan Wall,Male,85.0,30.0,85.0,1.0,High,72.0,4.2,80.0,False
@@ -513,7 +513,7 @@
 511,5440.0,Justin Johnson,Male,88.0,22.0,90.0,0.0,High,85.0,3.1,71.0,False
 512,8304.0,Kaylee Benjamin,Female,88.0,30.0,90.0,2.0,High,78.0,2.8,55.0,False
 513,2593.0,Charles Murphy,Female,88.0,17.0,77.0,3.0,High,68.0,4.3,89.0,False
-514,6954.0,Grant Henderson,Female,78.0,18.0,88.0,1.0,Medium,80.0,0.3,57.0,False
+514,6954.0,Grant Henderson,Female,78.0,17.0,88.0,1.0,Medium,80.0,0.3,57.0,False
 515,8842.0,Michael Woods,Female,78.0,18.0,88.0,3.0,Low,68.0,2.5,75.0,True
 516,6339.0,Michael Kane,Male,88.0,12.0,77.0,0.0,Low,62.0,1.2,65.0,True
 517,8903.0,Susan Benson,Female,90.0,30.0,90.0,3.0,Medium,62.0,2.8,71.0,True
@@ -529,12 +529,12 @@
 527,3248.0,Samantha York,Female,85.0,22.0,60.0,3.0,High,78.0,2.5,85.0,False
 528,7303.0,Joanna Martinez,Female,92.0,10.0,60.0,3.0,High,88.0,2.5,96.0,True
 529,9220.0,Penny Hopkins,Female,70.0,12.0,86.0,1.0,High,80.0,2.8,95.0,False
-530,2854.0,Justin Foster,Female,90.0,18.0,78.0,2.0,Medium,72.0,0.4,89.0,True
+530,2854.0,Justin Foster,Female,90.0,17.0,78.0,2.0,Medium,72.0,0.4,89.0,True
 531,5017.0,Jennifer Morgan,Female,90.0,12.0,86.0,2.0,Low,80.0,4.5,84.0,True
 532,8681.0,Dalton Chen,Female,82.0,17.0,86.0,1.0,Medium,90.0,4.8,68.0,False
 533,3744.0,Mrs. Amy Carney MD,Male,91.0,18.0,86.0,2.0,High,78.0,2.9,86.0,True
 534,5780.0,Melissa Wang,Male,88.0,17.0,85.0,0.0,Low,87.0,4.3,67.0,False
-535,8317.0,Cameron Bender,Female,78.0,18.0,90.0,1.0,High,72.0,4.3,71.0,True
+535,8317.0,Cameron Bender,Female,78.0,17.0,90.0,1.0,High,72.0,4.3,71.0,True
 536,6653.0,Daniel Solomon,Male,88.0,20.0,78.0,1.0,Medium,62.0,2.4,80.0,True
 537,7222.0,Deanna Jones,Female,85.0,18.0,65.0,2.0,Medium,80.0,1.4,78.0,False
 538,6172.0,Alicia Young,Male,90.0,12.0,88.0,0.0,Low,85.0,1.7,67.0,True
@@ -569,7 +569,7 @@
 567,2416.0,William Christian,Female,82.0,17.0,90.0,3.0,Medium,62.0,1.4,96.0,False
 568,5041.0,Michael Willis,Male,95.0,8.0,86.0,3.0,Low,68.0,4.6,50.0,False
 569,1724.0,James Simmons,Male,85.0,12.0,78.0,0.0,Low,62.0,2.4,94.0,True
-570,8412.0,Christopher Sullivan,Male,92.0,18.0,70.0,1.0,Low,62.0,4.7,58.0,False
+570,8412.0,Christopher Sullivan,Male,92.0,17.0,70.0,1.0,Low,62.0,4.7,58.0,False
 571,5846.0,Michelle Santos,Male,90.0,15.0,78.0,2.0,High,78.0,4.3,97.0,True
 572,8452.0,Michael Walters,Female,78.0,8.0,65.0,1.0,Low,78.0,3.5,50.0,True
 573,7305.0,Jason Anderson,Female,82.0,15.0,82.0,0.0,Medium,88.0,2.7,100.0,True
@@ -579,22 +579,22 @@
 577,9714.0,Erica Thomas,Female,85.0,22.0,88.0,2.0,High,78.0,0.4,75.0,True
 578,5724.0,Calvin Vargas,Male,90.0,10.0,82.0,2.0,Medium,68.0,2.5,63.0,True
 579,5803.0,Molly Jones,Female,82.0,10.0,77.0,1.0,Medium,78.0,3.7,51.0,False
-580,4097.0,Shannon Hogan,Male,85.0,18.0,70.0,1.0,Medium,88.0,1.7,91.0,False
+580,4097.0,Shannon Hogan,Male,85.0,17.0,70.0,1.0,Medium,88.0,1.7,91.0,False
 581,8965.0,James Fields,Female,85.0,18.0,78.0,0.0,Medium,68.0,3.9,64.0,False
 582,7093.0,Arthur Johnson,Female,85.0,10.0,88.0,2.0,Medium,68.0,3.1,60.0,False
 583,3986.0,Collin Edwards,Male,78.0,10.0,90.0,2.0,High,90.0,2.9,78.0,False
-584,7056.0,Kimberly Smith,Male,92.0,18.0,78.0,1.0,Medium,68.0,1.9,84.0,True
+584,7056.0,Kimberly Smith,Male,92.0,17.0,78.0,1.0,Medium,68.0,1.9,84.0,True
 585,9743.0,Mr. Clinton Camacho,Female,90.0,15.0,60.0,1.0,High,78.0,4.6,76.0,True
 586,9948.0,Taylor Moyer,Male,88.0,17.0,82.0,3.0,Medium,68.0,4.0,96.0,False
 587,8306.0,David Jimenez,Female,90.0,30.0,78.0,3.0,Low,92.0,2.9,64.0,False
-588,4206.0,Kyle Coleman,Male,90.0,18.0,77.0,2.0,Low,62.0,1.0,70.0,True
+588,4206.0,Kyle Coleman,Male,90.0,17.0,77.0,2.0,Low,62.0,1.0,70.0,True
 589,6915.0,Marvin Cardenas,Female,78.0,8.0,88.0,0.0,Medium,80.0,1.4,72.0,False
 590,8300.0,Eddie Robertson,Male,92.0,17.0,60.0,1.0,Medium,68.0,4.0,77.0,False
 591,2449.0,Christopher Taylor,Male,70.0,18.0,60.0,0.0,Low,78.0,3.6,98.0,True
 592,4264.0,Brenda Bell,Male,70.0,18.0,70.0,1.0,High,85.0,4.2,69.0,False
 593,8593.0,Ashley Nguyen,Male,85.0,15.0,65.0,2.0,Medium,78.0,0.6,92.0,False
 594,7834.0,Michael Bailey,Male,85.0,25.0,78.0,2.0,Medium,78.0,5.0,54.0,False
-595,8872.0,Maria Scott,Female,88.0,18.0,85.0,1.0,Low,88.0,0.1,66.0,True
+595,8872.0,Maria Scott,Female,88.0,17.0,85.0,1.0,Low,88.0,0.1,66.0,True
 596,1798.0,Karen Cruz,Female,88.0,12.0,85.0,2.0,High,68.0,3.8,88.0,True
 597,9908.0,Jodi Taylor,Female,95.0,18.0,82.0,1.0,High,72.0,2.9,59.0,True
 598,3243.0,Thomas Mcgrath,Female,95.0,17.0,60.0,1.0,High,87.0,1.1,82.0,True
@@ -653,7 +653,7 @@
 651,8150.0,Chad Downs,Male,85.0,15.0,78.0,1.0,Low,72.0,2.4,81.0,True
 652,3425.0,William Hill,Male,95.0,20.0,90.0,2.0,High,68.0,2.5,67.0,True
 653,1067.0,Makayla Rhodes,Male,70.0,20.0,90.0,1.0,Low,87.0,4.4,51.0,False
-654,2998.0,Clayton Jones,Female,95.0,18.0,85.0,1.0,High,80.0,0.4,95.0,False
+654,2998.0,Clayton Jones,Female,95.0,17.0,85.0,1.0,High,80.0,0.4,95.0,False
 655,8439.0,Sean Hernandez,Female,91.0,15.0,88.0,1.0,Low,88.0,4.8,70.0,True
 656,4463.0,Christine Young,Male,88.0,30.0,78.0,2.0,Low,88.0,1.9,75.0,False
 657,3916.0,Brian Hale,Male,70.0,20.0,78.0,3.0,High,62.0,3.9,68.0,True
@@ -671,7 +671,7 @@
 669,8139.0,Lisa Maynard,Male,90.0,18.0,77.0,0.0,Medium,62.0,0.1,60.0,True
 670,8295.0,Lisa Lynch,Female,85.0,15.0,77.0,3.0,High,92.0,1.5,75.0,True
 671,6469.0,Angela Warren,Male,90.0,8.0,60.0,1.0,Low,88.0,3.0,85.0,False
-672,1606.0,Mary Benson,Female,70.0,18.0,70.0,3.0,Low,62.0,4.7,81.0,True
+672,1606.0,Mary Benson,Female,70.0,17.0,70.0,3.0,Low,62.0,4.7,81.0,True
 673,1994.0,Yvonne Krueger,Male,70.0,22.0,88.0,2.0,High,85.0,4.5,76.0,False
 674,2915.0,Keith Bailey,Female,91.0,30.0,77.0,0.0,High,68.0,1.4,62.0,False
 675,6633.0,Barbara Case,Female,92.0,12.0,90.0,3.0,Low,90.0,4.6,95.0,False
@@ -705,7 +705,7 @@
 703,2450.0,Carl Coleman,Male,85.0,22.0,82.0,2.0,Low,87.0,3.2,55.0,True
 704,9877.0,Crystal Chandler,Male,91.0,12.0,90.0,1.0,Low,80.0,0.6,84.0,True
 705,1310.0,Elizabeth Nichols,Female,92.0,25.0,86.0,1.0,High,80.0,3.0,75.0,True
-706,9052.0,Jesse Barber,Male,95.0,18.0,65.0,0.0,High,72.0,1.6,66.0,True
+706,9052.0,Jesse Barber,Male,95.0,17.0,65.0,0.0,High,72.0,1.6,66.0,True
 707,2878.0,Julie Jackson,Male,82.0,10.0,82.0,0.0,High,85.0,3.8,59.0,False
 708,7672.0,Cindy Morales,Male,85.0,22.0,88.0,0.0,High,80.0,1.5,56.0,False
 709,9076.0,Ashley Franco,Female,90.0,18.0,78.0,1.0,Medium,72.0,2.0,76.0,True
@@ -726,7 +726,7 @@
 724,1769.0,Cameron Austin,Female,88.0,12.0,77.0,1.0,High,62.0,1.0,55.0,True
 725,4696.0,Dawn Nguyen,Female,90.0,25.0,90.0,0.0,Medium,85.0,0.3,90.0,True
 726,1456.0,Andrea Phillips,Female,70.0,15.0,86.0,1.0,Medium,92.0,0.5,65.0,False
-727,1891.0,Robert Bishop,Female,88.0,18.0,85.0,3.0,Low,78.0,3.8,90.0,False
+727,1891.0,Robert Bishop,Female,88.0,17.0,85.0,3.0,Low,78.0,3.8,90.0,False
 728,3045.0,Melanie Mckinney,Male,85.0,15.0,60.0,1.0,Low,87.0,3.9,53.0,False
 729,1897.0,Joseph Ellis,Female,91.0,8.0,85.0,2.0,Low,80.0,2.8,68.0,False
 730,7581.0,Jennifer Smith,Male,91.0,8.0,90.0,3.0,Low,88.0,0.1,74.0,False
@@ -742,7 +742,7 @@
 740,3855.0,Mark King,Female,82.0,25.0,65.0,3.0,High,68.0,4.2,56.0,True
 741,3248.0,James Macdonald,Female,90.0,30.0,90.0,2.0,Medium,92.0,1.8,73.0,True
 742,9633.0,Alexander Thompson,Female,90.0,20.0,65.0,0.0,High,92.0,2.7,94.0,False
-743,6209.0,Kaitlin Walton,Female,92.0,18.0,86.0,3.0,High,72.0,1.5,59.0,False
+743,6209.0,Kaitlin Walton,Female,92.0,17.0,86.0,3.0,High,72.0,1.5,59.0,False
 744,5049.0,Ashley Kaufman,Male,88.0,10.0,70.0,3.0,Medium,92.0,3.6,100.0,False
 745,2062.0,Megan Bernard,Male,82.0,8.0,70.0,1.0,Medium,72.0,2.3,70.0,False
 746,9609.0,Kelly Harper,Female,85.0,17.0,82.0,3.0,Medium,88.0,3.2,63.0,True
@@ -774,13 +774,13 @@
 772,1245.0,Terry Rodriguez,Female,95.0,15.0,60.0,3.0,Medium,92.0,0.3,67.0,False
 773,1719.0,Chad Mason,Male,92.0,8.0,82.0,3.0,Medium,87.0,3.6,100.0,True
 774,5127.0,Jessica Ferguson,Male,91.0,30.0,60.0,0.0,Medium,68.0,3.2,94.0,False
-775,8899.0,Andrew Schroeder,Male,95.0,18.0,86.0,3.0,Medium,62.0,2.6,97.0,True
+775,8899.0,Andrew Schroeder,Male,95.0,17.0,86.0,3.0,Medium,62.0,2.6,97.0,True
 776,9248.0,Jeffrey Garcia,Male,88.0,15.0,86.0,1.0,Medium,92.0,3.7,98.0,True
 777,2300.0,Jason Hood,Male,78.0,30.0,77.0,2.0,High,68.0,1.9,91.0,True
 778,4900.0,Sandra Leon,Female,88.0,10.0,78.0,1.0,Low,80.0,2.6,76.0,False
 779,1388.0,Tyler Mccormick,Male,95.0,30.0,90.0,3.0,Low,80.0,4.5,92.0,True
 780,4644.0,Megan Murphy,Female,82.0,30.0,65.0,1.0,Low,80.0,0.3,81.0,True
-781,4153.0,Charles Vincent,Male,78.0,18.0,65.0,2.0,High,88.0,2.7,100.0,True
+781,4153.0,Charles Vincent,Male,78.0,17.0,65.0,2.0,High,88.0,2.7,100.0,True
 782,4871.0,Mrs. Cindy Sharp DVM,Male,70.0,17.0,82.0,1.0,Low,92.0,1.2,61.0,True
 783,7188.0,Sarah Dixon,Male,85.0,17.0,60.0,2.0,Low,62.0,3.8,76.0,False
 784,1324.0,Teresa Rodriguez,Female,70.0,20.0,82.0,3.0,Low,68.0,2.8,61.0,False
@@ -837,7 +837,7 @@
 835,2256.0,Jessica Howard,Male,90.0,10.0,86.0,1.0,High,85.0,2.8,81.0,True
 836,7946.0,Lisa Zhang,Male,85.0,17.0,70.0,2.0,Low,87.0,2.0,89.0,True
 837,1119.0,Jonathan Daniel,Female,88.0,30.0,90.0,2.0,Low,88.0,0.2,78.0,True
-838,9577.0,Cheyenne Oliver,Male,78.0,18.0,88.0,0.0,Medium,90.0,4.8,77.0,False
+838,9577.0,Cheyenne Oliver,Male,78.0,17.0,88.0,0.0,Medium,90.0,4.8,77.0,False
 839,7211.0,Brianna Henderson,Male,95.0,20.0,88.0,3.0,Low,87.0,1.5,80.0,False
 840,5337.0,Mark Sanchez,Male,85.0,22.0,60.0,3.0,Medium,72.0,4.1,52.0,False
 841,8999.0,Melissa Nguyen,Male,95.0,15.0,86.0,1.0,Medium,85.0,1.8,50.0,False
@@ -850,7 +850,7 @@
 848,4874.0,Darlene Burton,Male,95.0,8.0,86.0,1.0,Medium,78.0,1.4,81.0,True
 849,8027.0,Faith Johnson,Male,91.0,10.0,70.0,0.0,High,85.0,3.8,66.0,True
 850,8031.0,Nathan Miller,Male,85.0,20.0,70.0,3.0,High,92.0,5.0,87.0,True
-851,4758.0,Donna Fowler,Male,78.0,18.0,78.0,2.0,High,68.0,2.1,89.0,True
+851,4758.0,Donna Fowler,Male,78.0,17.0,78.0,2.0,High,68.0,2.1,89.0,True
 852,2489.0,Whitney Jefferson,Male,70.0,8.0,70.0,2.0,Low,92.0,1.1,77.0,False
 853,2005.0,Shane Sanders,Female,85.0,18.0,85.0,2.0,Medium,85.0,4.7,95.0,False
 854,5046.0,Felicia Cline,Female,85.0,10.0,78.0,1.0,High,90.0,1.1,80.0,False
@@ -864,13 +864,13 @@
 862,9254.0,Wesley May,Female,88.0,25.0,82.0,2.0,Low,87.0,0.9,52.0,True
 863,5781.0,Christopher Atkinson,Male,78.0,18.0,65.0,2.0,High,92.0,4.9,63.0,True
 864,1022.0,Blake Martinez,Female,91.0,30.0,88.0,2.0,Low,72.0,1.3,58.0,False
-865,5831.0,Joy Henderson,Male,85.0,18.0,88.0,3.0,Low,85.0,0.9,51.0,True
+865,5831.0,Joy Henderson,Male,85.0,17.0,88.0,3.0,Low,85.0,0.9,51.0,True
 866,7258.0,Mary Ramos,Female,91.0,12.0,90.0,1.0,High,90.0,1.3,87.0,False
 867,3550.0,Colleen Sanchez,Female,92.0,8.0,88.0,0.0,Medium,87.0,2.5,79.0,True
 868,3885.0,David Cruz,Male,91.0,17.0,65.0,1.0,High,85.0,0.8,61.0,False
 869,4077.0,Ralph Becker,Male,78.0,20.0,60.0,3.0,Medium,62.0,0.5,83.0,True
 870,1193.0,Denise Coleman,Male,70.0,8.0,78.0,2.0,High,80.0,0.7,99.0,True
-871,3281.0,Samantha Mendoza,Female,91.0,18.0,65.0,2.0,Medium,78.0,0.8,53.0,False
+871,3281.0,Samantha Mendoza,Female,91.0,17.0,65.0,2.0,Medium,78.0,0.8,53.0,False
 872,9906.0,Sean Lyons,Male,88.0,15.0,85.0,2.0,Medium,62.0,2.6,76.0,True
 873,1019.0,Anthony Smith,Male,85.0,25.0,60.0,0.0,High,90.0,3.3,64.0,False
 874,2841.0,Deborah Hernandez,Female,78.0,20.0,90.0,2.0,Medium,90.0,0.4,71.0,True
@@ -880,7 +880,7 @@
 878,5562.0,David Bauer,Male,90.0,30.0,65.0,0.0,Medium,90.0,1.6,77.0,False
 879,7782.0,Steven Hill,Female,78.0,25.0,60.0,0.0,Low,78.0,2.5,81.0,True
 880,7301.0,Linda Beasley,Male,91.0,8.0,70.0,3.0,Low,92.0,3.5,65.0,False
-881,1046.0,Maria Edwards,Male,85.0,18.0,70.0,1.0,High,87.0,0.3,72.0,False
+881,1046.0,Maria Edwards,Male,85.0,17.0,70.0,1.0,High,87.0,0.3,72.0,False
 882,3283.0,Megan Hutchinson,Female,85.0,10.0,70.0,0.0,High,92.0,4.1,53.0,True
 883,3591.0,Thomas Freeman,Male,78.0,30.0,65.0,2.0,High,87.0,0.1,76.0,True
 884,5698.0,Holly Leon,Male,78.0,15.0,78.0,3.0,High,72.0,2.5,76.0,False
@@ -898,6 +898,6 @@
 896,7701.0,Anna Martinez,Male,85.0,30.0,70.0,3.0,Medium,90.0,0.4,76.0,False
 897,3592.0,Monica Johnson,Female,90.0,25.0,60.0,1.0,Low,87.0,1.7,79.0,False
 898,2787.0,Shannon Porter,Male,78.0,20.0,60.0,0.0,High,62.0,1.6,70.0,False
-899,4497.0,Amy Stout,Female,91.0,18.0,86.0,0.0,High,90.0,3.9,80.0,True
+899,4497.0,Amy Stout,Female,91.0,17.0,86.0,0.0,High,90.0,3.9,80.0,True
 900,7636.0,Joseph Sherman,Male,88.0,17.0,60.0,2.0,High,85.0,0.9,53.0,True
 901,8021.0,Maria Walls,Female,88.0,10.0,90.0,1.0,Medium,62.0,2.4,94.0,True
