@@ -1,0 +1,23 @@
+,rating,total_rating,price,next_month_bought,offer,brand,model_name,screen_size(inches),colour,hard_disk_size,cpu_model,ram(GB),os,special_features,graphics_card
+0,4.3,63,85990.,0,28,Lenovo,Yoga Slim 7,14,Luna Grey,512 GB,Intel Core Ultra 5,16,Windows 11 Home,"Anti Glare Coating, Backlit Keyboard, HD Audio",Integrated
+1,4.0,313,38000.,500,27,Lenovo,Lenovo V15,15.6,Gray,512 GB,Ryzen 5,16,Windows 11,HD Audio,Integrated
+2,3.1,62,16990.,200,60,Neopticon,BrowseBook,14.1,Gray,128 GB,Celeron N4020,4,Windows 11 Home,"HD Audio, Memory Card Slot",Integrated
+3,3.9,2071,24490.,400,38,acer,Aspire Lite,15.6,Steel Gray,512 GB,Ryzen 3,16,Windows 11 Home,Lightweight,Integrated
+4,4.0,48,99990.,50,17,ASUS,ASUS Vivobook 16,16,Black | Core 7 240H,512 GB,Intel Core 7,16,Windows 11 Home,"Anti-glare display, Backlit Keyboard, Precision touchpad",Integrated
+5,4.2,614,71800.,100,19,ASUS,TUF Gaming F15,15.6,"Black, R7 | RTX 3050",512 GB,AMD Ryzen 7,16,Windows 11 Home,Anti-glare display,Dedicated
+6,4.1,10,36990.,200,13,HP,DQ3149TU,14,Black,512 GB,Celeron,8,Windows 11 Home,"Anti Glare Coating, Lightweight",Integrated
+7,3.6,5,103990.,50,18,HP,HP Gaming Laptop,39.6,Mica Silver,1 TB,Core i7,24,Windows 11 Home,"Anti Glare Coating, RGB Backlit",Dedicated
+8,3.9,766,58490.,200,26,HP,HP Laptop,39.6,Silver,1 TB,Core i5,16,Windows 11 Home,"Anti Glare Coating, Backlit Keyboard",Integrated
+9,3.4,818,26980.,200,28,acer,Aspire 3,15.6,Silver,512 GB,Others,8,Windows 11 Home,Thin,Integrated
+10,3.8,56,41890.,50,47,Lenovo,Lenovo V14,14,Iron Grey,512 GB,Core i3,8,Windows 11 Home,"Anti Glare Coating, HD Audio, Lightweight, Spill Resistant",Integrated
+11,3.5,70,49990.,200,43,Lenovo,ThinkBook 16,16,R7 7735HS,512 GB,Ryzen 7,16,Windows 11 Home,"Anti Glare Coating, Backlit Keyboard, Fingerprint Reader, HD Audio, Lightweight",Integrated
+12,4.0,60,86990.,50,13,ASUS,ASUS TUF Gaming A16,16,Mecha Gray,1 TB,Ryzen 7,16,Windows 11 Home,"144Hz Refresh Rate, 300nits Brightness, Anti-glare display",Dedicated
+13,4.1,964,40990.,500,27,HP,HP Laptop,39.6,Natural Silver,512 GB,Core i3 Family,12,Windows 11 Home,Anti Glare Coating,Integrated
+14,4.2,100,42990.,200,24,Dell,Inspiron,15.6,Silver,512 GB,Ryzen 5,16,Windows 11 Home,LED-Backlit,Integrated
+15,3.8,347,65990.,300,24,HP,HP Laptop,39.6,Blue,512 GB,Ryzen 5,16,Windows 11 Home,"Anti Glare Coating, Micro Edge Display",Dedicated
+16,5.0,1,72390.,0,20,Lenovo,IdeaPad Slim 3,15.3,Luna Grey,1 TB,Intel Core i7,24,Windows 11 Home,"Anti Glare Coating, Backlit Keyboard, HD Audio",Integrated
+17,4.2,614,99990.,200,15,ASUS,ASUS TUF Gaming A15,15.6,Graphite Black,512 GB,AMD Ryzen 7,16,Windows 11 Home,"720P HD camera, Anti-glare display, Backlit Keyboard",Dedicated
+18,3.4,818,26490.,100,28,acer,Aspire 3,14,Silver,512 GB,Others,12,Windows 11 Home,Thin,Integrated
+19,3.9,2071,34320.,0,0,acer,Aspire Lite,15.6,Gray,512 GB,Ryzen 5,16,Windows 11 Home,"HD Audio, Lightweight, Numeric Keypad",Integrated
+20,4.2,48,114990.,0,15,Lenovo,Yoga Slim 7,15,2024 Aura | Ultra 7 258V,1 TB,Intel Core Ultra 7,32,Windows 11 Home,"Anti Glare Coating, Backlit Keyboard, HD Audio",Integrated
+21,3.7,32,56501.,50,34,Lenovo,E14 Gen 6,14,Graphite Black,512 GB,Ryzen 5,16,Windows 11,"Anti Glare Coating, Backlit Keyboard, Copilot, Fingerprint Reader, HD Audio, Lightweight",Integrated
